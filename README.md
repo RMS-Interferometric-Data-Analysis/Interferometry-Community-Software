@@ -23,8 +23,8 @@ Curated list of interferometric software, methods and techniques
   
 ## Methods, Techniques, and Tutorials
 
-- [radio-astro-tools tutorials](https://radio-astro-tools.github.io/tutorials/)
-- 
+- [radio-astro-tools tutorials](https://radio-astro-tools.github.io/tutorials/) -- tutorials on using spectral-cube, fitting with spectral-cube, parallelization with dask, creating position-velocity diagrams, signal masking and moment map creation, cube reprojection
+- [Visread: Examining DSHARP AS 209 Weights and Exporting Visibilities](https://mpol-dev.github.io/visread/tutorials/rescale_AS209_weights.html) -- uses CASA tools to examine the visibilities, visibility residuals, and weights of a real multi-configuration dataset from the DSHARP survey.
 
 ## Visualization
 
