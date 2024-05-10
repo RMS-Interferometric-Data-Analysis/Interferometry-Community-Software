@@ -1,4 +1,4 @@
-# Interferometry-Community-Software
+# Radio-Millimeter-Submillimeter (RMS) Interferometry-Community-Software
 Curated list of interferometric software, methods and techniques
 
 *This list was developed during the 2024 Spatio-spectral Modeling for Interferometric Data Workshop (go.nrao.edu/ssmid)*
