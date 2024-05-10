@@ -40,7 +40,8 @@ Curated list of interferometric software, methods and techniques
   2. Add new entries to the list, either on your own machine (make a local clone), or directly on github by pressing the pencil on the upper-right of the README file: ![image](https://github.com/RMS-Interferometric-Data-Analysis/Interferometry-Community-Software/assets/3255771/7bcf4785-2d26-42d3-ae38-9a56a80c3e76)
   3. Commit your new entries to your forked repository: ![image](https://github.com/RMS-Interferometric-Data-Analysis/Interferometry-Community-Software/assets/3255771/d75b04a0-4729-474c-832a-67f8c2a788f2)
   4. Create a new pull request (PR) from your fork to the main branch: ![image](https://github.com/RMS-Interferometric-Data-Analysis/Interferometry-Community-Software/assets/3255771/93c17ecd-17fe-4b39-97a2-46cbeb1caf07)
-  5. After the PR is merged into the main repository, update your forked repository before adding new entries.
+  5. After the PR is merged into the main repository, update your forked repository before adding new entries. Use the "Sync fork" button here: ![image](https://github.com/RMS-Interferometric-Data-Analysis/Interferometry-Community-Software/assets/3255771/d8392c4f-5ece-4a74-858b-6a2d7bbc8805)
+
 
 
 
