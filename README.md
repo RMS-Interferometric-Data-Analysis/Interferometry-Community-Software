@@ -3,16 +3,20 @@ Curated list of interferometric software, methods and techniques
 
 *This list was developed during the 2024 Spatio-spectral Modeling for Interferometric Data Workshop (go.nrao.edu/ssmid)*
 
-## Software Packages
-
+### Visibility Handling
 - [CASA](https://casadocs.readthedocs.io/)
-
-
-### Visibilities and Imaging
-- [pyuvdata](https://pyuvdata.readthedocs.io/en/latest/index.html)
 - [casangi](https://github.com/casangi)
+- [pyuvdata](https://pyuvdata.readthedocs.io/en/latest/index.html)
 
+
+### Imaging
+- [CASA](https://casadocs.readthedocs.io/) - includes [several algorithms in tclean](https://casadocs.readthedocs.io/en/stable/notebooks/synthesis_imaging.html#Other-Algorithms) (Max. Entropy; Adaptive Scale Pixel) 
+- [casangi](https://github.com/casangi)
 - [MPoL](https://mpol-dev.github.io/MPoL/)
+- [MrBeam](https://github.com/hmuellergoe/mrbeam)
+- [LibRA](https://github.com/ARDG-NRAO/LibRA)
+- [wsclean](https://wsclean.readthedocs.io/en/latest/index.html)
+- [ADD HERE]
 
 
 ### Analysis
