@@ -7,6 +7,7 @@ Curated list of interferometric software, methods and techniques
 - [CASA](https://casadocs.readthedocs.io/)
 - [casangi](https://github.com/casangi)
 - [pyuvdata](https://pyuvdata.readthedocs.io/en/latest/index.html)
+- [casa-formats-io](https://github.com/radio-astro-tools/casa-formats-io)
 
 
 ### Imaging
