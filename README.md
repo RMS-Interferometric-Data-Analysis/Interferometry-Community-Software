@@ -28,7 +28,7 @@ Curated list of interferometric software, methods and techniques
 - [disksurf](https://github.com/richteague/disksurf) - Measure the molecular emission surface of protoplanetary disks
 - [FERIA](https://github.com/YokoOya/FERIA) - Flat Envelope model with Rotation and Infall under Angular momentum conservation
 - [keplerian_mask](https://github.com/richteague/keplerian_mask) - Make a Keplerian mask for CLEANing with CASA.
-- [KeplerFit](https://github.com/felixbosco/KeplerFit) - A small piece of code to fit a Keplerian velocity distribution model to position-velocity data 
+- [KeplerFit](https://github.com/felixbosco/KeplerFit) - A small piece of code to fit a Keplerian velocity distribution model to position-velocity data. *Developer is no longer working in astronomy 
 
   
 ## Methods, Techniques, and Tutorials
@@ -36,11 +36,12 @@ Curated list of interferometric software, methods and techniques
 - [radio-astro-tools tutorials](https://radio-astro-tools.github.io/tutorials/) -- tutorials on using spectral-cube, fitting with spectral-cube, parallelization with dask, creating position-velocity diagrams, signal masking and moment map creation, cube reprojection
 - [Visread: Examining DSHARP AS 209 Weights and Exporting Visibilities](https://mpol-dev.github.io/visread/tutorials/rescale_AS209_weights.html) -- uses CASA tools to examine the visibilities, visibility residuals, and weights of a real multi-configuration dataset from the DSHARP survey.
 - [auto_selfcal](https://github.com/jjtobin/auto_selfcal) -- automated continuum self-calibration for ALMA and VLA data
-- 
+- [GALARIO](https://mtazzari.github.io/galario/) - uses GPUs to speed up the computation of the synthetic visibilities given a model image (or an axisymmetric brightness profile) and their comparison to the observations. *Developer is no longer working in astronomy 
 
 ## Visualization
 
-- 
+- [CARTA](https://cartavis.org/) - Cube Analysis and Rendering Tool for Astronomy: a next-generation image visualization and analysis tool designed for ALMA, VLA, and SKA pathfinders.
+
 
 
 # Contributing to this list
