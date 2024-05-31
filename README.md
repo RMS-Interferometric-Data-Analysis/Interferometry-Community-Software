@@ -9,7 +9,6 @@ Curated list of interferometric software, methods and techniques
 - [pyuvdata](https://pyuvdata.readthedocs.io/en/latest/index.html)
 - [casa-formats-io](https://github.com/radio-astro-tools/casa-formats-io)
 
-
 ### Imaging
 - [CASA](https://casadocs.readthedocs.io/) - includes [several algorithms in tclean](https://casadocs.readthedocs.io/en/stable/notebooks/synthesis_imaging.html#Other-Algorithms) (Max. Entropy; Adaptive Scale Pixel) 
 - [casangi](https://github.com/casangi)
@@ -17,25 +16,34 @@ Curated list of interferometric software, methods and techniques
 - [MrBeam](https://github.com/hmuellergoe/mrbeam)
 - [LibRA](https://github.com/ARDG-NRAO/LibRA)
 - [wsclean](https://wsclean.readthedocs.io/en/latest/index.html)
-- [ADD HERE]
+- [GILDAS-MAPPING](https://iram.fr/IRAMFR/GILDAS/) - documentation is out of date
+- [GILDAS-IMAGER](https://imager.oasu.u-bordeaux.fr/wp-content/uploads/doc/html/) - well documented
 
 
 ### Analysis
 - [radio-astro-tools](https://radio-astro-tools.github.io) -- spectral-cube, radio-beam, pvextractor, casa-formats-io
 - [bettermoments](https://github.com/richteague/gofish) -- moment map making
 - [eddy](https://github.com/richteague/eddy) -- rotation map fitting (protoplanetary disks)
-- [gofish](https://github.com/richteague/gofish) -- shift-and-stack analyses (protoplanetary disks)
+- [gofish](https://github.com/richteague/gofish) --Stack line emission leveraging known structure of a system (protoplanetary disks)
+- [velocity_tools](https://github.com/RMS-Interferometric-Data-Analysis/Interferometry-Community-Software) -calculation of Keplerian rotation velocity map -deprojection of relative coordinates for a given inclination and rotation angles and an arbitrary center -calculation of velocity gradient, assuming solid velocity rotation
+- [disksurf](https://github.com/richteague/disksurf) - Measure the molecular emission surface of protoplanetary disks
+- [FERIA](https://github.com/YokoOya/FERIA) - Flat Envelope model with Rotation and Infall under Angular momentum conservation
+- [keplerian_mask](https://github.com/richteague/keplerian_mask) - Make a Keplerian mask for CLEANing with CASA.
+- [KeplerFit](https://github.com/felixbosco/KeplerFit) - A small piece of code to fit a Keplerian velocity distribution model to position-velocity data. *Developer is no longer working in astronomy 
+
   
 ## Methods, Techniques, and Tutorials
 
+- [python packaging guide](https://packaging-guide.openastronomy.org/en/latest/) -- guide for making Python packages
 - [radio-astro-tools tutorials](https://radio-astro-tools.github.io/tutorials/) -- tutorials on using spectral-cube, fitting with spectral-cube, parallelization with dask, creating position-velocity diagrams, signal masking and moment map creation, cube reprojection
 - [Visread: Examining DSHARP AS 209 Weights and Exporting Visibilities](https://mpol-dev.github.io/visread/tutorials/rescale_AS209_weights.html) -- uses CASA tools to examine the visibilities, visibility residuals, and weights of a real multi-configuration dataset from the DSHARP survey.
 - [auto_selfcal](https://github.com/jjtobin/auto_selfcal) -- automated continuum self-calibration for ALMA and VLA data
-- [python packaging guide](https://packaging-guide.openastronomy.org/en/latest/) -- guide for making Python packages
+- [GALARIO](https://mtazzari.github.io/galario/) - uses GPUs to speed up the computation of the synthetic visibilities given a model image (or an axisymmetric brightness profile) and their comparison to the observations. *Developer is no longer working in astronomy 
 
 ## Visualization
 
-- 
+- [CARTA](https://cartavis.org/) - Cube Analysis and Rendering Tool for Astronomy: a next-generation image visualization and analysis tool designed for ALMA, VLA, and SKA pathfinders.
+
 
 
 # Contributing to this list
