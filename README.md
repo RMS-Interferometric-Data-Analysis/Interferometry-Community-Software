@@ -17,6 +17,7 @@ Curated list of interferometric software, methods and techniques
 - [MrBeam](https://github.com/hmuellergoe/mrbeam)
 - [LibRA](https://github.com/ARDG-NRAO/LibRA)
 - [wsclean](https://wsclean.readthedocs.io/en/latest/index.html)
+- [IRIS (Bayesian Imaging with Score-Based Priors)] (https://github.com/EnceladeCandy/bayesian-imaging-radio)
 - [ADD HERE]
 
 
