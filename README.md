@@ -19,8 +19,7 @@ Curated list of interferometric software, methods and techniques
 - [wsclean](https://wsclean.readthedocs.io/en/latest/index.html)
 - [IMAGER](https://imager.oasu.u-bordeaux.fr)
 - [GILDAS-MAPPING](https://iram.fr/IRAMFR/GILDAS/) - documentation is out of date
-
-
+- [IRIS (Bayesian Imaging with Score-Based Priors)] (https://github.com/EnceladeCandy/bayesian-imaging-radio)
 
 ### Analysis
 - [radio-astro-tools](https://radio-astro-tools.github.io) -- spectral-cube, radio-beam, pvextractor, casa-formats-io
