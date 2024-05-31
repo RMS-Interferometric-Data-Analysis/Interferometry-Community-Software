@@ -8,6 +8,7 @@ Curated list of interferometric software, methods and techniques
 - [casangi](https://github.com/casangi)
 - [pyuvdata](https://pyuvdata.readthedocs.io/en/latest/index.html)
 - [casa-formats-io](https://github.com/radio-astro-tools/casa-formats-io)
+- [vis_sample](https://github.com/AstroChem/vis_sample) -- simulate an image `seen' by an interferometer based on a provided image and uv coverage
 
 
 ### Imaging
@@ -32,10 +33,11 @@ Curated list of interferometric software, methods and techniques
 - [Visread: Examining DSHARP AS 209 Weights and Exporting Visibilities](https://mpol-dev.github.io/visread/tutorials/rescale_AS209_weights.html) -- uses CASA tools to examine the visibilities, visibility residuals, and weights of a real multi-configuration dataset from the DSHARP survey.
 - [auto_selfcal](https://github.com/jjtobin/auto_selfcal) -- automated continuum self-calibration for ALMA and VLA data
 - [python packaging guide](https://packaging-guide.openastronomy.org/en/latest/) -- guide for making Python packages
+- [How to use CASA guide for beginners](https://github.com/cat4rcc/CASA_Guide)
 
 ## Visualization
 
-- 
+- [friendlyVRI](https://github.com/crpurcell/friendlyVRI) -- simulate what a provided image will look like to in the `eyes' of an interferometer and its possible configurations
 
 
 # Contributing to this list
