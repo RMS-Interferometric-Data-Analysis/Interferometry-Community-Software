@@ -24,6 +24,8 @@ Curated list of interferometric software, methods and techniques
 - [IMAGER](https://imager.oasu.u-bordeaux.fr)
 - [GILDAS-MAPPING](https://iram.fr/IRAMFR/GILDAS/) - documentation is out of date
 - [IRIS (Bayesian Imaging with Score-Based Priors)](https://github.com/EnceladeCandy/bayesian-imaging-radio)
+- [fitsconcat](https://github.com/Kitchi/fitsconcat) - Fast(er) cube creation via concatenation of individual image channels into a larger FITS cube
+-
 
 ### Analysis
 - [radio-astro-tools](https://radio-astro-tools.github.io) -- spectral-cube, radio-beam, pvextractor, casa-formats-io
@@ -35,10 +37,8 @@ Curated list of interferometric software, methods and techniques
 - [FERIA](https://github.com/YokoOya/FERIA) - Flat Envelope model with Rotation and Infall under Angular momentum conservation
 - [keplerian_mask](https://github.com/richteague/keplerian_mask) - Make a Keplerian mask for CLEANing with CASA.
 - [KeplerFit](https://github.com/felixbosco/KeplerFit) - A small piece of code to fit a Keplerian velocity distribution model to position-velocity data. *Developer is no longer working in astronomy 
-
-- [GALARIO](https://mtazzari.github.io/galario/) - uses GPUs to speed up the computation of the synthetic visibilities given a model image (or an axisymmetric brightness profile) and their comparison to the observations. *Developer is no longer working in astronomy
+- [GALARIO](https://mtazzari.github.io/galario/) - uses GPUs to speed up the computation of the synthetic visibilities given a model image (or an axisymmetric brightness profile) and their comparison to the observations. *Developer is no longer working in astronomy 
 - [discminer](https://github.com/andizq/discminer) 
-
   
 ## Methods, Techniques, and Tutorials
 
