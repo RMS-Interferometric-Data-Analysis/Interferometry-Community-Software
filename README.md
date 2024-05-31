@@ -51,6 +51,8 @@ Curated list of interferometric software, methods and techniques
 
 - [CHTC Guides on making Docker Containers](https://chtc.cs.wisc.edu/uw-research-computing/docker-build.html) -- guides on how to build/deploy Docker containers on your own computer and CHTC resources
 
+- [Diffusion model package used by Ciela Institute in Montreal](https://github.com/AlexandreAdam/score_models/tree/master)
+
 ## Visualization
 
 - [CARTA](https://cartavis.org/) - Cube Analysis and Rendering Tool for Astronomy: a next-generation image visualization and analysis tool designed for ALMA, VLA, and SKA pathfinders.
