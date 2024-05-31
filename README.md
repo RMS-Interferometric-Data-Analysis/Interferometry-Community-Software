@@ -47,7 +47,6 @@ Curated list of interferometric software, methods and techniques
 - [CARTA](https://cartavis.org/) - Cube Analysis and Rendering Tool for Astronomy: a next-generation image visualization and analysis tool designed for ALMA, VLA, and SKA pathfinders.
 
 
-
 # Contributing to this list
 
 - [git resources via astropy](https://docs.astropy.org/en/latest/development/workflow/development_workflow.html#new-to-git)
