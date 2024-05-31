@@ -3,6 +3,8 @@ Curated list of interferometric software, methods and techniques
 
 *This list was developed during the 2024 Spatio-spectral Modeling for Interferometric Data Workshop (go.nrao.edu/ssmid)*
 
+**Learning how to contribute and using git/github? See the list of resources at the bottom of this list!**
+
 ### Visibility Handling
 - [CASA](https://casadocs.readthedocs.io/)
 - [casangi](https://github.com/casangi)
@@ -47,6 +49,8 @@ Curated list of interferometric software, methods and techniques
 
 
 # Contributing to this list
+
+- [Introduction to version control in Git for scientists](https://laserkelvin.github.io/blog/2021/10/contributing-github/) -- a nice little blog post with the basics how-to for git. Explains basic git terms and how version control works - with visuals!
 
 - [git resources via astropy](https://docs.astropy.org/en/latest/development/workflow/development_workflow.html#new-to-git)
 - [Pull request workflow overview](https://blog.mergify.com/understanding-the-github-pull-request-workflow/)
