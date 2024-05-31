@@ -10,6 +10,7 @@ Curated list of interferometric software, methods and techniques
 - [casa-formats-io](https://github.com/radio-astro-tools/casa-formats-io)
 
 
+
 ### Imaging
 - [CASA](https://casadocs.readthedocs.io/) - includes [several algorithms in tclean](https://casadocs.readthedocs.io/en/stable/notebooks/synthesis_imaging.html#Other-Algorithms) (Max. Entropy; Adaptive Scale Pixel) 
 - [casangi](https://github.com/casangi)
@@ -17,13 +18,12 @@ Curated list of interferometric software, methods and techniques
 - [MrBeam](https://github.com/hmuellergoe/mrbeam)
 - [LibRA](https://github.com/ARDG-NRAO/LibRA)
 - [wsclean](https://wsclean.readthedocs.io/en/latest/index.html)
-- [ADD HERE]
+- [IMAGER](https://imager.oasu.u-bordeaux.fr)
 
 
 ### Analysis
 - [radio-astro-tools](https://radio-astro-tools.github.io) -- spectral-cube, radio-beam, pvextractor, casa-formats-io
 - [bettermoments](https://bettermoments.readthedocs.io/en/latest/)
-- 
 
   
 ## Methods, Techniques, and Tutorials
