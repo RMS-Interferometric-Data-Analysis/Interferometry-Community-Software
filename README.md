@@ -13,7 +13,8 @@ Curated list of interferometric software, methods and techniques
 
 
 ### Imaging
-- [CASA](https://casadocs.readthedocs.io/) - includes [several algorithms in tclean](https://casadocs.readthedocs.io/en/stable/notebooks/synthesis_imaging.html#Other-Algorithms) (Max. Entropy; Adaptive Scale Pixel) 
+- [CASA](https://casadocs.readthedocs.io/) - includes [several algorithms in tclean](https://casadocs.readthedocs.io/en/stable/notebooks/synthesis_imaging.html#Other-Algorithms) (Max. Entropy; Adaptive Scale Pixel)
+- [CASA Docker Container](https://hub.docker.com/repository/docker/nipingel/casa/general) - Docker container for CASA 6.6.3 built within redhat/ubi8. This container also contains a miniconda python package manager with an 'astro_env' set up to use astropy, spectral-cube, reproject. Use commands: source ~/miniconda3/etc/profile.d/conda.sh' and 'conda activate astro_env' to activate.
 - [casangi](https://github.com/casangi)
 - [MPoL](https://mpol-dev.github.io/MPoL/)
 - [MrBeam](https://github.com/hmuellergoe/mrbeam)
@@ -42,6 +43,8 @@ Curated list of interferometric software, methods and techniques
 - [Visread: Examining DSHARP AS 209 Weights and Exporting Visibilities](https://mpol-dev.github.io/visread/tutorials/rescale_AS209_weights.html) -- uses CASA tools to examine the visibilities, visibility residuals, and weights of a real multi-configuration dataset from the DSHARP survey.
 - [auto_selfcal](https://github.com/jjtobin/auto_selfcal) -- automated continuum self-calibration for ALMA and VLA data
 - [GALARIO](https://mtazzari.github.io/galario/) - uses GPUs to speed up the computation of the synthetic visibilities given a model image (or an axisymmetric brightness profile) and their comparison to the observations. *Developer is no longer working in astronomy 
+
+- [CHTC Guides on making Docker Containers](https://chtc.cs.wisc.edu/uw-research-computing/docker-build.html) -- guides on how to build/deploy Docker containers on your own computer and CHTC resources
 
 ## Visualization
 
