@@ -22,15 +22,16 @@ Curated list of interferometric software, methods and techniques
 
 ### Analysis
 - [radio-astro-tools](https://radio-astro-tools.github.io) -- spectral-cube, radio-beam, pvextractor, casa-formats-io
-- [bettermoments](https://bettermoments.readthedocs.io/en/latest/)
-- 
-
+- [bettermoments](https://github.com/richteague/gofish) -- moment map making
+- [eddy](https://github.com/richteague/eddy) -- rotation map fitting (protoplanetary disks)
+- [gofish](https://github.com/richteague/gofish) -- shift-and-stack analyses (protoplanetary disks)
   
 ## Methods, Techniques, and Tutorials
 
 - [radio-astro-tools tutorials](https://radio-astro-tools.github.io/tutorials/) -- tutorials on using spectral-cube, fitting with spectral-cube, parallelization with dask, creating position-velocity diagrams, signal masking and moment map creation, cube reprojection
 - [Visread: Examining DSHARP AS 209 Weights and Exporting Visibilities](https://mpol-dev.github.io/visread/tutorials/rescale_AS209_weights.html) -- uses CASA tools to examine the visibilities, visibility residuals, and weights of a real multi-configuration dataset from the DSHARP survey.
 - [auto_selfcal](https://github.com/jjtobin/auto_selfcal) -- automated continuum self-calibration for ALMA and VLA data
+- [python packaging guide](https://packaging-guide.openastronomy.org/en/latest/) -- guide for making Python packages
 
 ## Visualization
 
