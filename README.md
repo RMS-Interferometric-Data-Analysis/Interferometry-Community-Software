@@ -9,6 +9,7 @@ Curated list of interferometric software, methods and techniques
 - [pyuvdata](https://pyuvdata.readthedocs.io/en/latest/index.html)
 - [casa-formats-io](https://github.com/radio-astro-tools/casa-formats-io)
 
+
 ### Imaging
 - [CASA](https://casadocs.readthedocs.io/) - includes [several algorithms in tclean](https://casadocs.readthedocs.io/en/stable/notebooks/synthesis_imaging.html#Other-Algorithms) (Max. Entropy; Adaptive Scale Pixel) 
 - [casangi](https://github.com/casangi)
@@ -16,13 +17,14 @@ Curated list of interferometric software, methods and techniques
 - [MrBeam](https://github.com/hmuellergoe/mrbeam)
 - [LibRA](https://github.com/ARDG-NRAO/LibRA)
 - [wsclean](https://wsclean.readthedocs.io/en/latest/index.html)
+- [IMAGER](https://imager.oasu.u-bordeaux.fr)
 - [GILDAS-MAPPING](https://iram.fr/IRAMFR/GILDAS/) - documentation is out of date
-- [GILDAS-IMAGER](https://imager.oasu.u-bordeaux.fr/wp-content/uploads/doc/html/) - well documented
+
 
 
 ### Analysis
 - [radio-astro-tools](https://radio-astro-tools.github.io) -- spectral-cube, radio-beam, pvextractor, casa-formats-io
-- [bettermoments](https://github.com/richteague/gofish) -- moment map making
+- [bettermoments](https://bettermoments.readthedocs.io/en/latest/) -- moment map making, including improved line center methods
 - [eddy](https://github.com/richteague/eddy) -- rotation map fitting (protoplanetary disks)
 - [gofish](https://github.com/richteague/gofish) --Stack line emission leveraging known structure of a system (protoplanetary disks)
 - [velocity_tools](https://github.com/RMS-Interferometric-Data-Analysis/Interferometry-Community-Software) -calculation of Keplerian rotation velocity map -deprojection of relative coordinates for a given inclination and rotation angles and an arbitrary center -calculation of velocity gradient, assuming solid velocity rotation
