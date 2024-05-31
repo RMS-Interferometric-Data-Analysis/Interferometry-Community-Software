@@ -31,6 +31,7 @@ Curated list of interferometric software, methods and techniques
 - [radio-astro-tools tutorials](https://radio-astro-tools.github.io/tutorials/) -- tutorials on using spectral-cube, fitting with spectral-cube, parallelization with dask, creating position-velocity diagrams, signal masking and moment map creation, cube reprojection
 - [Visread: Examining DSHARP AS 209 Weights and Exporting Visibilities](https://mpol-dev.github.io/visread/tutorials/rescale_AS209_weights.html) -- uses CASA tools to examine the visibilities, visibility residuals, and weights of a real multi-configuration dataset from the DSHARP survey.
 - [auto_selfcal](https://github.com/jjtobin/auto_selfcal) -- automated continuum self-calibration for ALMA and VLA data
+- [Introduction to version control in Git for scientists](https://laserkelvin.github.io/blog/2021/10/contributing-github/) -- a nice little blog post with the basics how-to for ```git```. Explains basic ```git``` terms and how version control works - with visuals!
 
 ## Visualization
 
