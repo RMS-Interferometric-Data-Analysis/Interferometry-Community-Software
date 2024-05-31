@@ -37,7 +37,7 @@ Curated list of interferometric software, methods and techniques
 - [KeplerFit](https://github.com/felixbosco/KeplerFit) - A small piece of code to fit a Keplerian velocity distribution model to position-velocity data. *Developer is no longer working in astronomy 
 
 - [GALARIO](https://mtazzari.github.io/galario/) - uses GPUs to speed up the computation of the synthetic visibilities given a model image (or an axisymmetric brightness profile) and their comparison to the observations. *Developer is no longer working in astronomy 
-
+- [fitsconcat](https://github.com/Kitchi/fitsconcat) - Fast(er) cube creation via concatenation of individual image channels into a larger FITS cube
   
 ## Methods, Techniques, and Tutorials
 
